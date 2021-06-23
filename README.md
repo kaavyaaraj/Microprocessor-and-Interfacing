@@ -1,2 +1,2 @@
 # MICROPROCESSOR-AND-INTERFACING
-8086 programs
+8086 and 8087 programs
